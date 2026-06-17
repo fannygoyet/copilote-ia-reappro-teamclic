@@ -1,0 +1,12 @@
+# Données confidentielles TeamClic — JAMAIS sur GitHub (RGPD / NDA)
+# Exports Odoo bruts
+*.xlsx
+# Sorties générées (contiennent références, coûts, quantités réels)
+*.csv
+
+# Système
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+venv/
