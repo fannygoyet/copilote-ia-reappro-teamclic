@@ -2,6 +2,8 @@
 
 Preuve de concept réalisée dans le cadre du devoir final **« L'IA au service de la Supply Chain »** (LSI3 — ESLI / GIP CEI), par **Fanny GOYET**.
 
+Dépôt : https://github.com/fannygoyet/copilote-ia-reappro-teamclic
+
 Le POC prolonge mon PFE chez **TeamClic** (réseau de réparation de smartphones) : là où mon PFE avait mis en place une automatisation du réappro par **règles figées** (seuils mini/maxi Odoo), ce POC explore l'étape suivante — une **classification intelligente** des références qui adapte la gestion de stock à la valeur *et* à la prévisibilité de chaque pièce.
 
 ## Ce que fait le script

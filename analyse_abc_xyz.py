@@ -9,7 +9,8 @@ Corrections post-vérification :
 - Stock de sécurité calculé UNIQUEMENT pour les références stockées (classes A et B).
   Les classes C — et a fortiori CZ — relèvent de la gestion à la demande (pas de réappro auto).
 - Références sans coût isolées dans un tableau "à fiabiliser" (ne faussent plus le classement).
-Entrées : ../03 - PFE/05 - Exports Odoo/*.xlsx  |  Sorties : abc_xyz_resultats.csv, a_fiabiliser.csv
+Entrées : Catalogue_pieces.xlsx, Mouvements_pieces.xlsx (exports Odoo, non fournis — confidentiels)
+Sorties : abc_xyz_resultats.csv, a_fiabiliser.csv, rapport_reappro_IA.xlsx
 """
 import pandas as pd, numpy as np, re
 
